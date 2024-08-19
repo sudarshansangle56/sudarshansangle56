@@ -3,6 +3,8 @@
 Hi, I am Sudarshan Sangle, a third-year IT undergraduate student at Sanjivani College of Engineering, Kopargaon. <br> who is passionate about software development.
 Check out my repositories to get to know more about my projects. Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. .<br> Also, visit my <a href="https://sudarshansangle56.github.io/SudarshanPortfolio">Portfolio page</a> to know more about me.
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/devicons.min.css">
+
 ## 🛠 Tools, technologies, and languages I use
 <p align="center">
   <!-- First row of skills -->
@@ -14,7 +16,7 @@ Check out my repositories to get to know more about my projects. Please feel fre
 <p align="center">
   <!-- Second row of skills -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
 </p>
@@ -23,14 +25,14 @@ Check out my repositories to get to know more about my projects. Please feel fre
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
 </p>
 <p align="center">
-  <!-- GitHub icon -->
+  <!-- Fourth row of skills -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" class="img-fluid" style="width: 70px; height: 70px;">
-
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="github" width="70" height="70"/>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.svg" alt="bootstrap" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ejs.svg" alt="ejs" width="70" height="70"/>
 </p>
 
 ## 🔭 Current Work
