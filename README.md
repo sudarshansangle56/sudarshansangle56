@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudarshan Sangle
 
 Hi, I am Sudarshan Sangle, a third-year IT undergraduate student at Sanjivani College of Engineering, Kopargaon. <br> who is passionate about software development.
-Check out my repositories to get to know more about my projects. Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. .<br> Also, visit my <a href="https://sudarshansangle56.github.io/SudarshanPortfolio">Portfolio page</a> to know more about me.
+Check out my repositories to get to know more about my projects. Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br> Also, visit my <a href="https://sudarshansangle56.github.io/SudarshanPortfolio">Portfolio page</a> to know more about me.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/devicons.min.css">
 
@@ -31,7 +31,7 @@ Check out my repositories to get to know more about my projects. Please feel fre
   <!-- Fourth row of skills -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="github" width="70" height="70"/>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.svg" alt="bootstrap" width="70" height="70"/>
+ <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ejs.svg" alt="ejs" width="70" height="70"/>
 </p>
 
