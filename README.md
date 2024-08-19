@@ -37,8 +37,6 @@ I am **Sudarshan Sangle**, a Junior Undergraduate pursuing a **B.Tech in Informa
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudarshansangle56&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔭 Current Work
 - 🚀 Working on various full-stack projects using **React, Node.js, and MongoDB**.
 - 🌱 Currently focusing on improving my skills in **TypeScript** and backend development.
@@ -51,16 +49,16 @@ I am **Sudarshan Sangle**, a Junior Undergraduate pursuing a **B.Tech in Informa
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sudarshan-sangle" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/sudarshan-sangle" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <!-- Portfolio -->
-  <a href="https://sudarshansangle56.github.io/SudarshanPortfolio" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="https://sudarshansangle56.github.io/SudarshanPortfolio" target="_blank" rel="noopener noreferrer" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/609/609053.png" alt="Portfolio" width="40" height="40"/>
   </a>
   <!-- Email -->
-  <a href="mailto:sanglesudarshan5701@gmail.com" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  <a href="mailto:sanglesudarshan5701@gmail.com" style="margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
   </a>
 </p>
 
