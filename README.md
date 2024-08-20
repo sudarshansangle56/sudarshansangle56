@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudarshan Sangle
 
 Hi, I am Sudarshan Sangle, a third-year IT undergraduate student at Sanjivani College of Engineering, Kopargaon. <br> who is passionate about software development.
-Check out my repositories to get to know more about my projects. Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br> Also, visit my <a href="https://sudarshansangle56.github.io/SudarshanPortfolio">Portfolio page</a> to know more about me.
+Check out my repositories to get to know more about my projects. <br> Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br> Also, visit my <a href="https://sudarshansangle56.github.io/SudarshanPortfolio">Portfolio page</a> to know more about me.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/devicons.min.css">
 
