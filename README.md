@@ -47,6 +47,13 @@ Check out my repositories to get to know more about my projects. <br> Please fee
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=radical)](https://git.io/streak-stats)
 
 
+
+## 👀 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=sudarshansangle56&color=blue)
+
+
+
+
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
