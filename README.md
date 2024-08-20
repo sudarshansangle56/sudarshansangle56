@@ -42,6 +42,11 @@ Check out my repositories to get to know more about my projects. <br> Please fee
 
 ![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshansangle56&show_icons=true&theme=radical)
 
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=radical)](https://git.io/streak-stats)
+
+
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
