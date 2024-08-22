@@ -40,11 +40,11 @@ Check out my repositories to get to know more about my projects. <br> Please fee
 - 🌱 Currently focusing on improving my skills in **TypeScript** and backend development.
 - 💻 Developing a Chess Game with **Node.js**, **Express**, and **EJS**.
 
-![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshansangle56&show_icons=true&theme=radical)
+![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshansangle56&show_icons=true&theme=whatsapp-light)
 
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=whatsapp-light)](https://git.io/streak-stats)
 
 
 
