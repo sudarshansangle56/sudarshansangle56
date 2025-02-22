@@ -48,7 +48,9 @@ Check out my repositories to get to know more about my projects. <br> Please fee
 
 
 
+
 ## 👀 Visitor Count
+![Custom Visitor Count](https://img.shields.io/badge/Visitors-100-blue?style=flat)
 ![Visitor Count](https://komarev.com/ghpvc/?username=sudarshansangle56&color=blue)
 
 
