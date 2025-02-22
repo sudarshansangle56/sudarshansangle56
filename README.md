@@ -47,15 +47,6 @@ Check out my repositories to get to know more about my projects. <br> Please fee
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=whatsapp-light)](https://git.io/streak-stats)
 
 
-
-
-## 👀 Visitor Count
-![Custom Visitor Count](https://img.shields.io/badge/Visitors-100-blue?style=flat)
-![Visitor Count](https://komarev.com/ghpvc/?username=sudarshansangle56&color=blue)
-
-
-
-
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
@@ -63,7 +54,7 @@ Check out my repositories to get to know more about my projects. <br> Please fee
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <!-- Portfolio -->
-  <a href="https://sudarshansangle56.github.io/SudarshanPortfolio" target="_blank" rel="noopener noreferrer" style="margin: 0 28px;">
+  <a href="" target="_blank" rel="noopener noreferrer" style="margin: 0 28px;">
     <img src="https://cdn-icons-png.flaticon.com/512/609/609053.png" alt="Portfolio" width="40" height="40"/>
   </a>
   <!-- Email -->
