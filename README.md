@@ -44,7 +44,8 @@ Check out my repositories to get to know more about my projects. <br> Please fee
 
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=whatsapp-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudarshansangle56&theme=whatsapp-light&date_format=%Y)](https://git.io/streak-stats)
+
 
 
 ## 🌐 Connect with Me
