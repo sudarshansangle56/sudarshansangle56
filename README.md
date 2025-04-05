@@ -1,69 +1,139 @@
-# 👋 Hi, I'm Sudarshan Sangle
+<h1 align="center">Full Stack Developer | Passionate about Web & Cloud</h1>
 
-Hi, I am Sudarshan Sangle, a third-year IT undergraduate student at Sanjivani College of Engineering, Kopargaon. <br> who is passionate about software development.
-Check out my repositories to get to know more about my projects. <br> Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.<br> Also, visit my Portfolio page</a> to know more about me.
+###
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/devicons.min.css">
+<br clear="both" />
 
-## 🛠 Tools, technologies, and languages I use
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshansangle56&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    width="54%"
+    alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com/?user=sudarshansangle56&theme=neon&hide_border=true&card_width=420"
+    width="45%"
+    alt="GitHub Streak" />
+</div>
+
+###
+
+<h2 align="center">Popular Tools & Technologies</h2>
+
+###
+
+<br clear="both" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" />
+      <br />NextJS
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" />
+      <br />Express
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <br />MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+      <br />HTML
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+      <br />CSS
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" />
+      <br />PHP
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
+      <br />VSCode
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <br />GitHub
+    </td>
+  </tr>
+</table>
+
+###
+
 <p align="center">
-  <!-- First row of skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+  <a href="https://github.com/sudarshansangle56?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sudarshansangle56&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="49%" />
+  </a>
+  <a href="https://github.com/sudarshansangle56?tab=stars">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshansangle56&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="49%" />
+  </a>
 </p>
-<p align="center">
-  <!-- Second row of skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-</p>
-<p align="center">
-  <!-- Third row of skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
-  <img src="https://img.icons8.com/?size=256&id=kg46nzoJrmTR&format=png" alt="express" width="70" height="70"/>
-</p>
-<p align="center">
-  <!-- Fourth row of skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-  <img src="https://img.icons8.com/?size=32&id=16318&format=png" alt="github" width="70" height="70"/>
- <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="70" height="70"/>
-  <img src="https://img.icons8.com/?size=48&id=puL87ypQPxxr&format=png" alt="ejs" width="70" height="70"/>
-</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudarshansangle56&&style=flat-square" />
+</div>
+
+---
 
 ## 🔭 Current Work
-- 🚀 Working on various full-stack projects using **React, Node.js, and MongoDB**.
-- 🌱 Currently focusing on improving my skills in **TypeScript** and backend development.
-- 💻 Developing a Chess Game with **Node.js**, **Express**, and **EJS**.
-
-![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshansangle56&show_icons=true&theme=whatsapp-light)
+- 🚀 Building full-stack projects using **React, Node.js, and MongoDB**.
+- 🌱 Leveling up my **TypeScript** and backend skills.
 
 
-
-
-
+---
 ## 🌐 Connect with Me
+
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sudarshan-sangle" target="_blank" rel="noopener noreferrer" style="margin: 0 28px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/sudarshan-sangle" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45" style="border-radius: 8px;"/>
   </a>
-  <!-- Portfolio -->
-  <a href="" target="_blank" rel="noopener noreferrer" style="margin: 0 28px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/609/609053.png" alt="Portfolio" width="40" height="40"/>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="45" height="45" style="border-radius: 8px;" />
   </a>
-  <!-- Email -->
-  <a href="mailto:sanglesudarshan5701@gmail.com" style="margin: 0 28px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  <a href="mailto:sanglesudarshan5701@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="45" height="45" style="border-radius: 8px;" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/sudarshansangle56" target="_blank" rel="noopener noreferrer" style="margin: 0 28px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/sudarshansangle56" target="_blank">
+    <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" width="45" height="45" style="border-radius: 8px;" />
   </a>
 </p>
 
-Happy Coding! 😊
+<p align="center">💻🚀</p>
+
+
