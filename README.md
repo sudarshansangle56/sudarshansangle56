@@ -1,6 +1,5 @@
 <h1 align="center">Full Stack Developer | Passionate about MERN</h1>
 <!-- copy content meaning Lacking a sense of self -->
-###
 
 <br clear="both" />
 
@@ -123,7 +122,7 @@
   <a href="https://www.linkedin.com/in/sudarshan-sangle" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45" style="border-radius: 8px;"/>
   </a>
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="45" height="45" style="border-radius: 8px;" />
   </a>
   <a href="mailto:sanglesudarshan5701@gmail.com">
@@ -131,7 +130,7 @@
   </a>
   <a href="https://github.com/sudarshansangle56" target="_blank">
     <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" width="45" height="45" style="border-radius: 8px;" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">💻🚀</p>
