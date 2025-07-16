@@ -1,6 +1,6 @@
 <h1 align="center">Full Stack Developer | Passionate about Web & Cloud</h1>
 
-###
+###copy content meaning Lacking a sense of self
 
 <br clear="both" />
 
